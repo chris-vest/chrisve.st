@@ -1,4 +1,4 @@
-baseurl = "https://chrisve.st/"
+baseurl = "//chrisve.st/"
 title = "chris vest"
 theme = "hugo-coder"
 languagecode = "en"
