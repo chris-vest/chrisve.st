@@ -6,14 +6,14 @@ description = "Using the Vault PKI secrets engine to set up a CA to use with the
 slug = "vault-pki-strimzi" 
 tags = ["vault","pki","strimzi","kafka","kubernetes"]
 categories = ["tech"]
-externalLink = "https://strimzi.io/2018/11/16/using-vault-with-strimzi.html"
+externalLink = ""
 +++
 
 > I originally wrote this post for the [Strimzi blog](https://strimzi.io/blog/) after having worked on it for a project at my work. I figured it would benefit the community to know how I had done this, especially since I had received so much help in general regarding running Kafka on Kubernetes from the Strimzi guys. This seemed like an appropriate way to give back!
 
 > Make sure to check out the [Strimzi project](https://strimzi.io/)!
 
-> The only thing I have changed since publishing the post originally is an additional link at the bottom of the article.
+> The only thing I have changed since publishing the post originally is an additional link at the bottom of the article. [The original article is here](https://strimzi.io/2018/11/16/using-vault-with-strimzi.html).
 
 > Here is the post in full...
 
