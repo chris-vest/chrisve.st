@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2019-02-02T12:14:31Z
 title = "Using Vault PKI with the Strimzi Kafka Operator on Kubernetes"
 description = "Using the Vault PKI secrets engine to set up a CA to use with the Strimzi Kafka Operator"
