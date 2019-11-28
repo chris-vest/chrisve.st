@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2019-11-28T10:46:21Z
 title = "Migrating to ArgoCD from Flux & Flux Helm Operator"
 description = "Migrating Kubernetes resource ownership from Flux to ArgoCD"
