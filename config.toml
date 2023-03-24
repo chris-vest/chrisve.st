@@ -17,7 +17,6 @@ disqusShortname = "spamburger"
     author = "Chris Vest"
     info = "Platform Security Architect"
     description = "Chris Vest's website"
-    keywords = "blog,personal,devops,kubernetes,operator,controller,security,cloud"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "/images/favicon-32x32.png"
