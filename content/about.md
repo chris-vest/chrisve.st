@@ -6,7 +6,7 @@ draft: false
 
 ## Who am I?
 
-My name is Chris Vest and I work as a DevOps Engineer in London, United Kingdom.
+My name is Chris Vest and I work as a Platform Security Architect.
 
 ## What is this?
 
