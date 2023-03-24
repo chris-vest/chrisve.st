@@ -5,6 +5,3 @@
 	path = public
 	url = git@github.com:chris-vest/chris-vest.github.io.git
 	branch = master
-[submodule "quickstart/quickstart/themes/ananke"]
-	path = quickstart/quickstart/themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
