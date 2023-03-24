@@ -1,6 +1,6 @@
 baseurl = "//chrisve.st/"
 title = "chris vest"
-theme = "hugo-coder"
+theme = "PaperMod"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
