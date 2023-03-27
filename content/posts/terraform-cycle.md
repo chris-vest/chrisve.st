@@ -1,8 +1,13 @@
----
-title: "Terraform Cycle"
-date: 2019-02-19T13:23:25Z
-draft: false
----
++++
+title = "Terraform Cycle"
+date = 2019-02-19T13:23:25Z
+draft = false
+description = "Migrating Kubernetes resource ownership from Flux to ArgoCD"
+slug = "terraform-cycle"
+tags = ["terraform"]
+categories = ["tech"]
+externalLink = ""
++++
 
 ## Terraform Cycle error
 
