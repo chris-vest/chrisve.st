@@ -2,7 +2,7 @@
 title = "Terraform Cycle"
 date = 2019-02-19T13:23:25Z
 draft = false
-description = "Migrating Kubernetes resource ownership from Flux to ArgoCD"
+description = "Fixing Terraform cycle errors using Terraform graph function"
 slug = "terraform-cycle"
 tags = ["terraform"]
 categories = ["tech"]
