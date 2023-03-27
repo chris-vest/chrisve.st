@@ -16,6 +16,7 @@ disqusShortname = "spamburger"
 [params]
     author = "Chris Vest"
     info = "Platform Security Architect"
+
     description = "Chris Vest's website"
     avatarurl = "images/avatar.jpg"
 
