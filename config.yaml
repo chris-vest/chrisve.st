@@ -73,8 +73,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi \U0001F44B"
-    Content: "...welcome..."
+    Title: "Welcome."
+    Content: |
+      Probably devops, cloud, Kubernetes and security.
 
   socialIcons:
     - name: stackoverflow
